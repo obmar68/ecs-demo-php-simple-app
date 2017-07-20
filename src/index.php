@@ -7,7 +7,7 @@
         <title>DEMO OPENPAY2</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <style>body {margin-top: 40px; background-color: #355;}</style>
+        <style>body {margin-top: 40px; background-color: #fff;}</style>
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>ECS DEMO OPENPAY2</h1>
-                <h2>HI THERE!!! V2 </h2>
+                <h2>HI THERE!!! V3 </h2>
                 <p>This demo is running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
