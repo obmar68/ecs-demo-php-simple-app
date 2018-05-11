@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>ECS DEMO OPENPAY2</h1>
-                <h2>HI THERE!!! V8 </h2>
+                <h1>ITQ DEMO </h1>
+                <h2>HI THERE!!! V1.0 </h2>
                 <p>This demo is running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
